@@ -1,0 +1,50 @@
+﻿order_id,order_date,ship_date,customer,product_name,category,city,country,discount,profit,quantity,sales
+US-2020-103800,01/03/2019,01/07/2019,Darren Powers,"Message Book, Wirebound, Four 5 1/2"" X 4"" Forms/Pg., 200 Dupl. Sets/Book",Office Supplies,Houston,United States,0.2,5.5512,2,16.448
+US-2020-112326,01/04/2019,01/08/2019,Phillina Ober,GBC Standard Plastic Binding Systems Combs,Office Supplies,Naperville,United States,0.8,-5.487,2,3.54
+US-2020-112326,01/04/2019,01/08/2019,Phillina Ober,Avery 508,Office Supplies,Naperville,United States,0.2,4.2717,3,11.784
+US-2020-112326,01/04/2019,01/08/2019,Phillina Ober,SAFCO Boltless Steel Shelving,Office Supplies,Naperville,United States,0.2,-64.7748,3,272.736
+US-2020-141817,01/05/2019,01/12/2019,Mick Brown,"Avery Hi-Liter EverBold Pen Style Fluorescent Highlighters, 4/Pack",Office Supplies,Philadelphia,United States,0.2,4.884,3,19.536
+US-2020-106054,01/06/2019,01/07/2019,Jack O'Briant,"Dixon Prang Watercolor Pencils, 10-Color Set with Brush",Office Supplies,Athens,United States,0,5.2398,3,12.78
+US-2020-130813,01/06/2019,01/08/2019,Lycoris Saunders,Xerox 225,Office Supplies,Los Angeles,United States,0,9.3312,3,19.44
+US-2020-167199,01/06/2019,01/10/2019,Maria Etezadi,Global Deluxe High-Back Manager's Chair,Furniture,Henderson,United States,0,746.4078,9,2573.82
+US-2020-167199,01/06/2019,01/10/2019,Maria Etezadi,Rogers Handheld Barrel Pencil Sharpener,Office Supplies,Henderson,United States,0,1.4796,2,5.48
+US-2020-167199,01/06/2019,01/10/2019,Maria Etezadi,Ibico Hi-Tech Manual Binding System,Office Supplies,Henderson,United States,0,274.491,2,609.98
+US-2020-167199,01/06/2019,01/10/2019,Maria Etezadi,"Alliance Super-Size Bands, Assorted Sizes",Office Supplies,Henderson,United States,0,0.3112,4,31.12
+US-2020-167199,01/06/2019,01/10/2019,Maria Etezadi,Southworth 25% Cotton Granite Paper & Envelopes,Office Supplies,Henderson,United States,0,3.0084,1,6.54
+US-2020-167199,01/06/2019,01/10/2019,Maria Etezadi,Wireless Extenders zBoost YX545 SOHO Signal Booster,Technology,Henderson,United States,0,204.1092,4,755.96
+US-2020-167199,01/06/2019,01/10/2019,Maria Etezadi,GE 30524EE4,Technology,Henderson,United States,0,113.6742,2,391.98
+US-2020-105417,01/07/2019,01/12/2019,Vivek Sundaresam,"Howard Miller 14-1/2"" Diameter Chrome Round Wall Clock",Furniture,Huntsville,United States,0.6,-53.7096,3,76.728
+US-2020-105417,01/07/2019,01/12/2019,Vivek Sundaresam,"Acco Four Pocket Poly Ring Binder with Label Holder, Smoke, 1""",Office Supplies,Huntsville,United States,0.8,-18.2525,7,10.43
+US-2020-135405,01/09/2019,1/13/2019,Melanie Seite,Newell 312,Office Supplies,Laredo,United States,0.2,1.168,2,9.344
+US-2020-135405,01/09/2019,1/13/2019,Melanie Seite,Memorex Micro Travel Drive 8 GB,Technology,Laredo,United States,0.2,9.75,3,31.2
+US-2020-149020,01/10/2019,1/15/2019,Anthony Jacobs,"Howard Miller 11-1/2"" Diameter Ridgewood Wall Clock",Furniture,Springfield,United States,0,21.2954,1,51.94
+US-2020-149020,01/10/2019,1/15/2019,Anthony Jacobs,Avery 482,Office Supplies,Springfield,United States,0,1.3583,1,2.89
+US-2020-130092,01/11/2019,1/14/2019,Seth Vernon,"DAX Value U-Channel Document Frames, Easel Back",Furniture,Dover,United States,0,3.0814,2,9.94
+US-2020-109232,1/13/2019,1/16/2019,Natalie DeCherney,Global Highback Leather Tilter in Burgundy,Furniture,Mount Pleasant,United States,0,87.3504,6,545.94
+US-2020-118192,1/13/2019,1/18/2019,Michael Moore,Avery Metallic Poly Binders,Office Supplies,Newark,United States,0.7,-2.5212,2,3.438
+US-2020-118192,1/13/2019,1/18/2019,Michael Moore,Xerox 1923,Office Supplies,Newark,United States,0.2,13.0928,7,37.408
+US-2020-157147,1/13/2019,1/18/2019,Brian Dahlen,"O'Sullivan Elevations Bookcase, Cherry Finish",Furniture,San Francisco,United States,0.15,3.9294,3,333.999
+US-2020-157147,1/13/2019,1/18/2019,Brian Dahlen,4009 Highlighters by Sanford,Office Supplies,San Francisco,United States,0,6.567,5,19.9
+US-2020-157147,1/13/2019,1/18/2019,Brian Dahlen,Tennsco 6- and 18-Compartment Lockers,Office Supplies,San Francisco,United States,0,238.653,5,1325.85
+US-2020-162775,1/13/2019,1/15/2019,Chris Selesnick,3-ring staple pack,Office Supplies,Bossier City,United States,0,2.7072,3,5.64
+US-2020-162775,1/13/2019,1/15/2019,Chris Selesnick,Brown Kraft Recycled Envelopes,Office Supplies,Bossier City,United States,0,25.47,3,50.94
+US-2020-162775,1/13/2019,1/15/2019,Chris Selesnick,Staple envelope,Office Supplies,Bossier City,United States,0,5.3392,2,11.36
+US-2020-162775,1/13/2019,1/15/2019,Chris Selesnick,Fellowes Stor/Drawer Steel Plus Storage Drawers,Office Supplies,Bossier City,United States,0,34.3548,6,572.58
+US-2020-162775,1/13/2019,1/15/2019,Chris Selesnick,Plantronics S12 Corded Telephone Headset System,Technology,Bossier City,United States,0,258.696,6,646.74
+US-2020-149524,1/14/2019,1/15/2019,Brendan Sweed,Sauder Cornerstone Collection Library,Furniture,Philadelphia,United States,0.5,-53.2856,4,61.96
+US-2020-103366,1/15/2019,1/17/2019,Erica Hackney,Logitech 910-002974 M325 Wireless Mouse for Web Scrolling,Technology,Roswell,United States,0,65.978,5,149.95
+US-2020-115791,1/16/2019,1/18/2019,Delfina Latchford,DAX Black Cherry Wood-Tone Poster Frame,Furniture,Philadelphia,United States,0.2,28.5984,6,127.104
+US-2020-115791,1/16/2019,1/18/2019,Delfina Latchford,GBC Linen Binding Covers,Office Supplies,Philadelphia,United States,0.7,-13.6312,2,18.588
+US-2020-115791,1/16/2019,1/18/2019,Delfina Latchford,Round Specialty Laser Printer Labels,Office Supplies,Philadelphia,United States,0.2,10.1493,3,30.072
+US-2020-115791,1/16/2019,1/18/2019,Delfina Latchford,AT&T 841000 Phone,Technology,Philadelphia,United States,0.4,-31.05,3,124.2
+US-2020-123477,1/18/2019,1/21/2019,David Wiener,Fellowes Mighty 8 Compact Surge Protector,Office Supplies,Springfield,United States,0.2,6.4864,4,64.864
+US-2020-146591,1/19/2019,1/20/2019,Toby Swindell,O'Sullivan 4-Shelf Bookcase in Odessa Pine,Furniture,Scottsdale,United States,0.7,-320.597,5,181.47
+US-2020-146591,1/19/2019,1/20/2019,Toby Swindell,"GBC Standard Recycled Report Covers, Clear Plastic Sheets",Office Supplies,Scottsdale,United States,0.7,-23.716,10,32.34
+US-2020-146591,1/19/2019,1/20/2019,Toby Swindell,"Tyvek  Top-Opening Peel & Seel Envelopes, Plain White",Office Supplies,Scottsdale,United States,0.2,36.693,5,108.72
+US-2020-146591,1/19/2019,1/20/2019,Toby Swindell,"TOPS Carbonless Receipt Book, Four 2-3/4 x 7-1/4 Money Receipts per Page",Office Supplies,Scottsdale,United States,0.2,19.6224,4,56.064
+US-2020-147627,1/20/2019,1/26/2019,Hunter Lopez,Hon 4700 Series Mobuis Mid-Back Task Chairs with Adjustable Arms,Furniture,Jonesboro,United States,0,224.2674,3,1067.94
+US-2020-147627,1/20/2019,1/26/2019,Hunter Lopez,"Eldon Expressions Desk Accessory, Wood Pencil Holder, Oak",Furniture,Jonesboro,United States,0,11.58,4,38.6
+US-2020-147627,1/20/2019,1/26/2019,Hunter Lopez,Newell 351,Office Supplies,Jonesboro,United States,0,6.6584,7,22.96
+US-2020-147627,1/20/2019,1/26/2019,Hunter Lopez,Newell 327,Office Supplies,Jonesboro,United States,0,1.7901,3,6.63
+US-2020-147627,1/20/2019,1/26/2019,Hunter Lopez,Staple envelope,Office Supplies,Jonesboro,United States,0,10.9698,3,23.34
+US-2020-147627,1/20/2019,1/26/2019,Hunter Lopez,Apple iPhone 5C,Technology,Jonesboro,United States,0,181.9818,7,699.93
